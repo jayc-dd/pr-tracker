@@ -14,10 +14,10 @@
         "flux-dd",
         "empiredanger"
       ],
-      "ciStatus": "PENDING",
-      "tldr": "Approved, waiting on CI",
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
       "createdAt": "2026-04-01T18:56:51Z",
-      "updatedAt": "2026-05-13T16:40:45Z",
+      "updatedAt": "2026-05-19T20:59:52Z",
       "author": "jayciro",
       "mergeable": "MERGEABLE"
     },
@@ -611,10 +611,10 @@
         "maatheusgois-dd",
         "teedesai"
       ],
-      "ciStatus": "FAILURE",
-      "tldr": "CI failing",
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
       "createdAt": "2026-04-21T17:19:31Z",
-      "updatedAt": "2026-05-18T18:06:38Z",
+      "updatedAt": "2026-05-27T14:40:11Z",
       "author": "jayciro",
       "mergeable": "MERGEABLE"
     },
@@ -738,10 +738,10 @@
       "reviewers": [
         "teedesai"
       ],
-      "ciStatus": "FAILURE",
-      "tldr": "CI failing",
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
       "createdAt": "2026-04-21T17:36:08Z",
-      "updatedAt": "2026-05-18T17:29:42Z",
+      "updatedAt": "2026-05-19T21:24:58Z",
       "author": "jayciro",
       "mergeable": "MERGEABLE"
     },
@@ -799,7 +799,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-21T20:46:08.711419+00:00",
-      "updatedAt": "2026-05-13T18:39:58Z",
+      "updatedAt": "2026-05-19T21:32:17Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -899,7 +899,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-21T20:46:08.711580+00:00",
-      "updatedAt": "2026-05-18T17:44:17Z",
+      "updatedAt": "2026-05-20T17:48:11Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1170,7 +1170,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057973+00:00",
-      "updatedAt": "2026-05-18T17:47:16Z",
+      "updatedAt": "2026-05-20T17:48:11Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1191,7 +1191,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057975+00:00",
-      "updatedAt": "2026-05-18T17:45:49Z",
+      "updatedAt": "2026-05-20T17:48:10Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1212,7 +1212,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057978+00:00",
-      "updatedAt": "2026-05-18T17:48:30Z",
+      "updatedAt": "2026-05-20T17:48:10Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1231,7 +1231,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057980+00:00",
-      "updatedAt": "2026-05-18T17:46:44Z",
+      "updatedAt": "2026-05-20T17:48:09Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1251,7 +1251,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057982+00:00",
-      "updatedAt": "2026-05-18T18:04:06Z",
+      "updatedAt": "2026-05-20T17:48:09Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1322,7 +1322,7 @@
       "state": "OPEN",
       "branch": "content/sentence-case-dx-time-pickup",
       "createdAt": "2026-05-01T19:51:25Z",
-      "updatedAt": "2026-05-18T18:15:10Z",
+      "updatedAt": "2026-05-20T17:48:08Z",
       "tldr": "CI failing",
       "reviewStatus": "APPROVED",
       "reviewers": [
@@ -1352,5 +1352,5 @@
       "mergeable": "MERGEABLE"
     }
   ],
-  "lastRefreshed": "2026-05-19T19:48:39.507087+00:00"
+  "lastRefreshed": "2026-05-28T17:20:11.767183+00:00"
 }
