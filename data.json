@@ -17,7 +17,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-01T18:56:51Z",
-      "updatedAt": "2026-06-04T21:27:35Z",
+      "updatedAt": "2026-06-08T16:32:40Z",
       "author": "jayciro",
       "mergeable": "MERGEABLE"
     },
@@ -614,7 +614,7 @@
       "ciStatus": "PENDING",
       "tldr": "Approved, waiting on CI",
       "createdAt": "2026-04-21T17:19:31Z",
-      "updatedAt": "2026-06-04T20:11:32Z",
+      "updatedAt": "2026-06-05T17:41:49Z",
       "author": "jayciro",
       "mergeable": "MERGEABLE"
     },
@@ -741,7 +741,7 @@
       "ciStatus": "PENDING",
       "tldr": "Approved, waiting on CI",
       "createdAt": "2026-04-21T17:36:08Z",
-      "updatedAt": "2026-06-04T20:02:27Z",
+      "updatedAt": "2026-06-05T17:42:21Z",
       "author": "jayciro",
       "mergeable": "MERGEABLE"
     },
@@ -799,7 +799,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-21T20:46:08.711419+00:00",
-      "updatedAt": "2026-06-04T21:29:00Z",
+      "updatedAt": "2026-06-08T17:11:32Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -899,7 +899,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-21T20:46:08.711580+00:00",
-      "updatedAt": "2026-06-04T20:50:25Z",
+      "updatedAt": "2026-06-05T19:39:48Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1170,7 +1170,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057973+00:00",
-      "updatedAt": "2026-06-04T21:04:52Z",
+      "updatedAt": "2026-06-05T19:38:54Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1191,7 +1191,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057975+00:00",
-      "updatedAt": "2026-06-04T21:03:28Z",
+      "updatedAt": "2026-06-05T19:37:49Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1212,7 +1212,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057978+00:00",
-      "updatedAt": "2026-06-04T21:00:52Z",
+      "updatedAt": "2026-06-05T19:36:39Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1231,7 +1231,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057980+00:00",
-      "updatedAt": "2026-06-04T21:00:12Z",
+      "updatedAt": "2026-06-05T19:35:06Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1251,7 +1251,7 @@
       "ciStatus": "FAILURE",
       "tldr": "CI failing",
       "createdAt": "2026-04-23T18:56:40.057982+00:00",
-      "updatedAt": "2026-06-04T20:56:04Z",
+      "updatedAt": "2026-06-05T19:34:18Z",
       "author": "jayciro",
       "mergeable": "CONFLICTING"
     },
@@ -1322,7 +1322,7 @@
       "state": "OPEN",
       "branch": "content/sentence-case-dx-time-pickup",
       "createdAt": "2026-05-01T19:51:25Z",
-      "updatedAt": "2026-06-04T21:15:07Z",
+      "updatedAt": "2026-06-05T19:33:34Z",
       "tldr": "CI failing",
       "reviewStatus": "APPROVED",
       "reviewers": [
@@ -1365,7 +1365,7 @@
       "url": "https://github.com/doordash/ios/pull/80188",
       "repo": "doordash/ios",
       "branch": "",
-      "state": "OPEN",
+      "state": "MERGED",
       "reviewStatus": "APPROVED",
       "reviewers": [
         "flux-dd",
@@ -1373,10 +1373,10 @@
         "copilot-pull-request-reviewer",
         "empiredanger"
       ],
-      "ciStatus": "FAILURE",
-      "tldr": "CI failing",
+      "ciStatus": "PENDING",
+      "tldr": "Merged!",
       "createdAt": "2026-05-20T11:04:41Z",
-      "updatedAt": "2026-06-04T20:30:02Z",
+      "updatedAt": "2026-06-05T19:30:36Z",
       "author": "jayciro"
     },
     {
@@ -1427,7 +1427,7 @@
       "ciStatus": "PENDING",
       "tldr": "Waiting on review",
       "createdAt": "2026-04-24T17:01:15Z",
-      "updatedAt": "2026-04-30T16:38:00Z",
+      "updatedAt": "2026-06-05T18:03:12Z",
       "author": "jayciro"
     },
     {
@@ -1444,7 +1444,7 @@
       "ciStatus": "PENDING",
       "tldr": "Waiting on review",
       "createdAt": "2026-04-24T17:00:58Z",
-      "updatedAt": "2026-04-24T17:38:43Z",
+      "updatedAt": "2026-06-05T18:05:51Z",
       "author": "jayciro"
     },
     {
@@ -1461,7 +1461,7 @@
       "ciStatus": "PENDING",
       "tldr": "Waiting on review",
       "createdAt": "2026-04-24T17:00:42Z",
-      "updatedAt": "2026-04-24T17:49:10Z",
+      "updatedAt": "2026-06-05T18:05:03Z",
       "author": "jayciro"
     },
     {
@@ -1478,7 +1478,7 @@
       "ciStatus": "PENDING",
       "tldr": "Waiting on review",
       "createdAt": "2026-04-24T17:00:25Z",
-      "updatedAt": "2026-04-24T17:46:52Z",
+      "updatedAt": "2026-06-05T18:06:12Z",
       "author": "jayciro"
     },
     {
@@ -1605,15 +1605,15 @@
       "url": "https://github.com/doordash/users/pull/5535",
       "repo": "doordash/users",
       "branch": "",
-      "state": "OPEN",
-      "reviewStatus": "PENDING",
+      "state": "MERGED",
+      "reviewStatus": "APPROVED",
       "reviewers": [
         "dd-alipatterson"
       ],
       "ciStatus": "PENDING",
-      "tldr": "Waiting on review",
+      "tldr": "Merged!",
       "createdAt": "2026-06-04T19:48:03Z",
-      "updatedAt": "2026-06-04T19:48:03Z",
+      "updatedAt": "2026-06-05T17:39:44Z",
       "author": "jayc-dd"
     },
     {
@@ -1622,15 +1622,17 @@
       "repo": "doordash/web-next",
       "branch": "",
       "state": "OPEN",
-      "reviewStatus": "PENDING",
+      "reviewStatus": "APPROVED",
       "reviewers": [
         "flux-dd",
+        "rehandoordash",
+        "dd-translation-pr-approve",
         "DDJosephine"
       ],
       "ciStatus": "PENDING",
-      "tldr": "Waiting on review",
+      "tldr": "Approved, waiting on CI",
       "createdAt": "2026-06-04T21:59:26Z",
-      "updatedAt": "2026-06-04T22:01:43Z",
+      "updatedAt": "2026-06-07T00:23:10Z",
       "author": "jayc-dd"
     },
     {
@@ -1639,15 +1641,16 @@
       "repo": "doordash/web-next",
       "branch": "",
       "state": "OPEN",
-      "reviewStatus": "PENDING",
+      "reviewStatus": "APPROVED",
       "reviewers": [
         "flux-dd",
-        "epan-dd"
+        "epan-dd",
+        "dd-translation-pr-approve"
       ],
       "ciStatus": "PENDING",
-      "tldr": "Waiting on review",
+      "tldr": "Approved, waiting on CI",
       "createdAt": "2026-06-04T21:58:28Z",
-      "updatedAt": "2026-06-04T22:00:17Z",
+      "updatedAt": "2026-06-05T18:33:38Z",
       "author": "jayc-dd"
     },
     {
@@ -1656,15 +1659,17 @@
       "repo": "doordash/web-next",
       "branch": "",
       "state": "OPEN",
-      "reviewStatus": "PENDING",
+      "reviewStatus": "APPROVED",
       "reviewers": [
         "flux-dd",
+        "rehandoordash",
+        "dd-translation-pr-approve",
         "poojadamidi"
       ],
       "ciStatus": "PENDING",
-      "tldr": "Waiting on review",
+      "tldr": "Approved, waiting on CI",
       "createdAt": "2026-06-04T21:57:31Z",
-      "updatedAt": "2026-06-04T22:01:08Z",
+      "updatedAt": "2026-06-05T18:35:29Z",
       "author": "jayc-dd"
     },
     {
@@ -1673,15 +1678,17 @@
       "repo": "doordash/web-next",
       "branch": "",
       "state": "OPEN",
-      "reviewStatus": "PENDING",
+      "reviewStatus": "APPROVED",
       "reviewers": [
         "flux-dd",
+        "rehandoordash",
+        "dd-translation-pr-approve",
         "midori0507"
       ],
       "ciStatus": "PENDING",
-      "tldr": "Waiting on review",
+      "tldr": "Approved, waiting on CI",
       "createdAt": "2026-06-04T21:56:39Z",
-      "updatedAt": "2026-06-04T21:58:19Z",
+      "updatedAt": "2026-06-07T00:04:29Z",
       "author": "jayc-dd"
     },
     {
@@ -1690,15 +1697,17 @@
       "repo": "doordash/web-next",
       "branch": "",
       "state": "OPEN",
-      "reviewStatus": "PENDING",
+      "reviewStatus": "APPROVED",
       "reviewers": [
         "flux-dd",
+        "rehandoordash",
+        "dd-translation-pr-approve",
         "pelhage"
       ],
       "ciStatus": "PENDING",
-      "tldr": "Waiting on review",
+      "tldr": "Approved, waiting on CI",
       "createdAt": "2026-06-04T21:55:46Z",
-      "updatedAt": "2026-06-04T22:00:04Z",
+      "updatedAt": "2026-06-07T00:02:50Z",
       "author": "jayc-dd"
     },
     {
@@ -1707,15 +1716,17 @@
       "repo": "doordash/web-next",
       "branch": "",
       "state": "OPEN",
-      "reviewStatus": "PENDING",
+      "reviewStatus": "APPROVED",
       "reviewers": [
         "flux-dd",
+        "rehandoordash",
+        "dd-translation-pr-approve",
         "martyjg"
       ],
       "ciStatus": "PENDING",
-      "tldr": "Waiting on review",
+      "tldr": "Approved, waiting on CI",
       "createdAt": "2026-06-04T21:54:56Z",
-      "updatedAt": "2026-06-04T22:00:10Z",
+      "updatedAt": "2026-06-05T18:27:30Z",
       "author": "jayc-dd"
     },
     {
@@ -1723,15 +1734,16 @@
       "url": "https://github.com/doordash/web-next/pull/128672",
       "repo": "doordash/web-next",
       "branch": "",
-      "state": "OPEN",
-      "reviewStatus": "PENDING",
+      "state": "CLOSED",
+      "reviewStatus": "APPROVED",
       "reviewers": [
-        "flux-dd"
+        "flux-dd",
+        "dd-translation-pr-approve"
       ],
       "ciStatus": "PENDING",
-      "tldr": "Waiting on review",
+      "tldr": "Closed",
       "createdAt": "2026-06-04T21:54:05Z",
-      "updatedAt": "2026-06-04T21:56:12Z",
+      "updatedAt": "2026-06-05T17:45:43Z",
       "author": "jayc-dd"
     },
     {
@@ -1740,17 +1752,862 @@
       "repo": "doordash/web-next",
       "branch": "",
       "state": "OPEN",
-      "reviewStatus": "PENDING",
+      "reviewStatus": "APPROVED",
       "reviewers": [
         "flux-dd",
+        "rehandoordash",
+        "dd-translation-pr-approve",
         "fpapado"
       ],
       "ciStatus": "PENDING",
-      "tldr": "Waiting on review",
+      "tldr": "Approved, waiting on CI",
       "createdAt": "2026-06-04T21:46:03Z",
-      "updatedAt": "2026-06-04T21:48:30Z",
+      "updatedAt": "2026-06-05T18:29:30Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix mins -> min abbreviation in Dasher strings (Dx)",
+      "url": "https://github.com/doordash/ios/pull/83492",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T21:39:31Z",
+      "updatedAt": "2026-06-08T22:44:18Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Un-hyphenate dropoff/pickup terminology in Dasher strings (Dx)",
+      "url": "https://github.com/doordash/ios/pull/83491",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:38:06Z",
+      "updatedAt": "2026-06-08T23:27:01Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix mins -> min abbreviation (Cx)",
+      "url": "https://github.com/doordash/ios/pull/83490",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:36:43Z",
+      "updatedAt": "2026-06-08T22:44:14Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Un-hyphenate dropoff terminology (Cx)",
+      "url": "https://github.com/doordash/ios/pull/83489",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:34:55Z",
+      "updatedAt": "2026-06-08T23:26:57Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Dasher Shop & Deliver CTA string (Dx)",
+      "url": "https://github.com/doordash/ios/pull/83488",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T21:33:42Z",
+      "updatedAt": "2026-06-08T22:01:13Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Dasher Timeline CTA strings (Dx)",
+      "url": "https://github.com/doordash/ios/pull/83486",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T21:17:46Z",
+      "updatedAt": "2026-06-08T21:47:33Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Group Order CTA string (Cx)",
+      "url": "https://github.com/doordash/ios/pull/83485",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:17:38Z",
+      "updatedAt": "2026-06-08T22:06:55Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Explore CTA string (Cx)",
+      "url": "https://github.com/doordash/ios/pull/83484",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:17:02Z",
+      "updatedAt": "2026-06-08T22:05:52Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Reorder CTA string (Cx)",
+      "url": "https://github.com/doordash/ios/pull/83483",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:16:25Z",
+      "updatedAt": "2026-06-08T22:06:21Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Cart CTA strings (Cx)",
+      "url": "https://github.com/doordash/ios/pull/83482",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:15:52Z",
+      "updatedAt": "2026-06-08T22:05:50Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Dasher At Store CTA strings (Dx)",
+      "url": "https://github.com/doordash/ios/pull/83480",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T21:15:27Z",
+      "updatedAt": "2026-06-08T23:26:55Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Common/Shared CTA strings (Cx)",
+      "url": "https://github.com/doordash/ios/pull/83479",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:15:05Z",
+      "updatedAt": "2026-06-08T22:05:46Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Dasher Common CTA strings (Dx)",
+      "url": "https://github.com/doordash/ios/pull/83478",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:14:40Z",
+      "updatedAt": "2026-06-08T22:11:55Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Checkout CTA strings (Cx)",
+      "url": "https://github.com/doordash/ios/pull/83472",
+      "repo": "doordash/ios",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-08T21:06:12Z",
+      "updatedAt": "2026-06-08T21:59:24Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "feat(identity): wrap auth copy standardization behind xfn_web_auth_login_copy DV",
+      "url": "https://github.com/doordash/web-next/pull/129634",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "oscarlopez-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T21:03:55Z",
+      "updatedAt": "2026-06-09T00:05:38Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-mx): apply terminology fixes to Merchant Printer strings (:pos)",
+      "url": "https://github.com/doordash/android/pull/101401",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T18:05:51Z",
+      "updatedAt": "2026-06-08T20:34:54Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-mx): apply terminology fixes to Merchant Printer strings (:merchant)",
+      "url": "https://github.com/doordash/android/pull/101400",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd",
+        "aijones",
+        "chadcdd",
+        "cristiangoncas-dd",
+        "dhartmanDD",
+        "stephencheng95",
+        "woltariel"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T18:05:46Z",
+      "updatedAt": "2026-06-08T20:34:58Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-mx): apply sentence-case fixes to Merchant Onboarding strings (:pos)",
+      "url": "https://github.com/doordash/android/pull/101399",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T18:05:40Z",
+      "updatedAt": "2026-06-08T18:59:25Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-mx): apply sentence-case fixes to Merchant Onboarding strings (:merchant)",
+      "url": "https://github.com/doordash/android/pull/101398",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve",
+        "aijones",
+        "chadcdd",
+        "cristiangoncas-dd",
+        "dhartmanDD",
+        "stephencheng95",
+        "woltariel"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T18:05:35Z",
+      "updatedAt": "2026-06-08T18:44:24Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-mx): apply sentence-case fixes to Merchant Settings strings (:pos)",
+      "url": "https://github.com/doordash/android/pull/101397",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T18:05:31Z",
+      "updatedAt": "2026-06-08T19:02:10Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-mx): apply sentence-case fixes to Merchant Settings strings (:merchant)",
+      "url": "https://github.com/doordash/android/pull/101396",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "stephencheng95",
+        "dd-translation-pr-approve",
+        "aijones",
+        "chadcdd",
+        "cristiangoncas-dd",
+        "dhartmanDD",
+        "woltariel"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T18:05:25Z",
+      "updatedAt": "2026-06-08T18:47:56Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-mx): apply sentence-case and terminology fixes to Merchant Orders strings (:lom)",
+      "url": "https://github.com/doordash/android/pull/101395",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd",
+        "aijones",
+        "chadcdd",
+        "cristiangoncas-dd",
+        "dhartmanDD",
+        "moe-dd",
+        "stephencheng95",
+        "woltariel"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T18:05:20Z",
+      "updatedAt": "2026-06-08T22:38:09Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-mx): apply sentence-case and terminology fixes to Merchant Orders strings (:pos)",
+      "url": "https://github.com/doordash/android/pull/101394",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T18:05:15Z",
+      "updatedAt": "2026-06-08T22:35:40Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-mx): apply sentence-case and terminology fixes to Merchant Orders strings (:merchant)",
+      "url": "https://github.com/doordash/android/pull/101393",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd",
+        "aijones",
+        "chadcdd",
+        "cristiangoncas-dd",
+        "dhartmanDD",
+        "stephencheng95",
+        "woltariel"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T18:05:09Z",
+      "updatedAt": "2026-06-08T22:35:42Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-dx): apply terminology fixes to Dasher Supply & Demand strings",
+      "url": "https://github.com/doordash/android/pull/101389",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T18:01:10Z",
+      "updatedAt": "2026-06-08T22:38:13Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-dx): apply sentence-case and terminology fixes to Dasher Drive strings",
+      "url": "https://github.com/doordash/android/pull/101388",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T18:01:04Z",
+      "updatedAt": "2026-06-08T22:38:45Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-dx): apply sentence-case fixes to Dasher Schedule strings",
+      "url": "https://github.com/doordash/android/pull/101387",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T18:00:59Z",
+      "updatedAt": "2026-06-08T18:59:52Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-dx): apply sentence-case fixes to Dasher Shop & Deliver strings",
+      "url": "https://github.com/doordash/android/pull/101386",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T18:00:54Z",
+      "updatedAt": "2026-06-08T20:34:52Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-dx): apply sentence-case fixes to Dasher Common strings",
+      "url": "https://github.com/doordash/android/pull/101385",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T18:00:48Z",
+      "updatedAt": "2026-06-08T18:56:13Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply sentence-case fixes to Common/Shared strings (:core)",
+      "url": "https://github.com/doordash/android/pull/101383",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T17:58:51Z",
+      "updatedAt": "2026-06-08T18:51:59Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply sentence-case fixes to Common/Shared strings (:app)",
+      "url": "https://github.com/doordash/android/pull/101382",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T17:58:30Z",
+      "updatedAt": "2026-06-08T18:50:22Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix sentence case in Cx Meal Train strings",
+      "url": "https://github.com/doordash/web-next/pull/129474",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve",
+        "jodie-lu"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T17:06:24Z",
+      "updatedAt": "2026-06-08T17:54:29Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix sentence case in Cx Payments strings",
+      "url": "https://github.com/doordash/web-next/pull/129472",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "omungg",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T17:03:40Z",
+      "updatedAt": "2026-06-08T17:53:10Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix sentence case and terminology in Cx Stores strings",
+      "url": "https://github.com/doordash/web-next/pull/129470",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve",
+        "samiyerunkar"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T17:00:40Z",
+      "updatedAt": "2026-06-08T17:49:40Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix sentence case in Cx Pickup strings",
+      "url": "https://github.com/doordash/web-next/pull/129459",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "stephenthomas-dd",
+        "dd-translation-pr-approve",
+        "prabin-giri-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T16:33:00Z",
+      "updatedAt": "2026-06-08T17:22:36Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix sentence case in Cx DoubleDash strings",
+      "url": "https://github.com/doordash/web-next/pull/129456",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve",
+        "steven-brand-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T16:30:19Z",
+      "updatedAt": "2026-06-08T17:32:27Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix sentence case in Cx Post-Checkout strings",
+      "url": "https://github.com/doordash/web-next/pull/129453",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve",
+        "cmoy-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T16:27:25Z",
+      "updatedAt": "2026-06-08T17:19:08Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix sentence case in Cx Checkout strings",
+      "url": "https://github.com/doordash/web-next/pull/129445",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve",
+        "mikeyao-dd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T16:24:19Z",
+      "updatedAt": "2026-06-08T17:39:22Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Fix drop-off terminology in Consumer web",
+      "url": "https://github.com/doordash/web-next/pull/129435",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "vijay-jandhyala"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T16:07:15Z",
+      "updatedAt": "2026-06-08T20:29:26Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Merchant and Storefront CTA buttons",
+      "url": "https://github.com/doordash/web-next/pull/129433",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "ryandeandd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Waiting on review",
+      "createdAt": "2026-06-08T16:03:08Z",
+      "updatedAt": "2026-06-08T20:29:24Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "[Content] Sentence-case Consumer CTA buttons",
+      "url": "https://github.com/doordash/web-next/pull/129430",
+      "repo": "doordash/web-next",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "dd-translation-pr-approve",
+        "afshindd"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-08T16:00:27Z",
+      "updatedAt": "2026-06-08T17:13:25Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply terminology fixes to Bundle strings",
+      "url": "https://github.com/doordash/android/pull/100953",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd"
+      ],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-05T21:52:38Z",
+      "updatedAt": "2026-06-08T20:34:55Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply terminology fixes to Address strings",
+      "url": "https://github.com/doordash/android/pull/100952",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "PENDING",
+      "reviewers": [
+        "flux-dd"
+      ],
+      "ciStatus": "FAILURE",
+      "tldr": "CI failing",
+      "createdAt": "2026-06-05T21:51:55Z",
+      "updatedAt": "2026-06-08T22:38:12Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply sentence-case fixes to Store strings",
+      "url": "https://github.com/doordash/android/pull/100950",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-05T21:51:08Z",
+      "updatedAt": "2026-06-08T18:43:23Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply sentence-case fixes to Checkout strings",
+      "url": "https://github.com/doordash/android/pull/100949",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-05T21:50:40Z",
+      "updatedAt": "2026-06-08T18:43:37Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply terminology fixes to Post-Checkout strings",
+      "url": "https://github.com/doordash/android/pull/100945",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-05T21:49:23Z",
+      "updatedAt": "2026-06-08T18:45:08Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply sentence-case fixes to Group Order strings",
+      "url": "https://github.com/doordash/android/pull/100944",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-05T21:48:38Z",
+      "updatedAt": "2026-06-08T23:00:38Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply sentence-case fixes to Cart strings",
+      "url": "https://github.com/doordash/android/pull/100942",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-05T21:48:03Z",
+      "updatedAt": "2026-06-08T18:49:01Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply sentence-case fixes to Notification Hub strings",
+      "url": "https://github.com/doordash/android/pull/100941",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-05T21:47:29Z",
+      "updatedAt": "2026-06-08T18:49:23Z",
+      "author": "jayc-dd"
+    },
+    {
+      "title": "fix(android-cx): apply sentence-case fixes to Orders strings",
+      "url": "https://github.com/doordash/android/pull/100940",
+      "repo": "doordash/android",
+      "branch": "",
+      "state": "OPEN",
+      "reviewStatus": "APPROVED",
+      "reviewers": [
+        "flux-dd",
+        "dd-translation-pr-approve"
+      ],
+      "ciStatus": "PENDING",
+      "tldr": "Approved, waiting on CI",
+      "createdAt": "2026-06-05T21:46:39Z",
+      "updatedAt": "2026-06-08T18:44:26Z",
       "author": "jayc-dd"
     }
   ],
-  "lastRefreshed": "2026-06-04T22:02:43.666911+00:00"
+  "lastRefreshed": "2026-06-09T00:07:00.866635+00:00"
 }
